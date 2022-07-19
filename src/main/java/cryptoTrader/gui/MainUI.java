@@ -43,6 +43,7 @@ public class MainUI extends JFrame implements ActionListener {
 	// Should be a reference to a separate object in actual implementation
 	private List<String> selectedList;
 
+	//this is a test
 	private JTextArea selectedTickerList;
 //	private JTextArea tickerList;
 	private JTextArea tickerText;
